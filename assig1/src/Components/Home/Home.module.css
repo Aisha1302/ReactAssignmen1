@@ -1,0 +1,13 @@
+.mainBg {
+    background-color: #1bbc9b;
+}
+
+.h {
+    height: 90vh;
+}
+
+.starLine {
+    width: 10%;
+    height: 6px;
+    background-color: #fff;
+}
